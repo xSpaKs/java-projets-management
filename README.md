@@ -46,8 +46,8 @@ Pilote JDBC MySQL : Téléchargez le connecteur JDBC pour MySQL et ajoutez-le au
 
 ### Cloner le Répertoire du Projet :
 
-- git clone https://github.com/votre-utilisateur/gestion-employes-projets.git
-- cd gestion-employes-projets
+- git clone https://github.com/xSpaKs/java-projets-management
+- cd java-projets-management
 
 ### Configurer la Base de Données :
 
